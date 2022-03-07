@@ -43,7 +43,7 @@
 		<title>Burning the ISO Image</title>
 	    <para>The ISO image is prepared to perform the boot from a DVD reader, USB device or as an ISO file for a virtual machine.</para>
 		<para>In order to burn the ISO image from a Linux system to a USB device, the following command needs to be used if the USB device is mapped in /dev/sdd:</para>
-		<programlisting>[root@machine ~]# dd if=redBorder-3.1.80-11-x86_64-6.5-proxy.iso of=/dev/sdd bs=10M</programlisting>
+		<programlisting>[root@machine ~]# dd if=redBorder-3.1.80-18-x86_64-6.5-proxy.iso of=/dev/sdd bs=10M</programlisting>
 	</section>
 	<section>
 		<title>Installing the ISO</title>
